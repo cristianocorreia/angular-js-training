@@ -1,0 +1,12 @@
+{
+  "name": "angularjs-training",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-connect": "latest"
+  },
+  "author": "Cristiano Correia"
+}

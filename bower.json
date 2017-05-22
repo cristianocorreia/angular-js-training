@@ -1,0 +1,15 @@
+{
+  "name": "starting-project",
+  "version": "1.0.0",
+  "authors": [
+    "Cristiano Correia <cristiano.correia@findmore.pt>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "latest",
+    "angular-ui-router": "latest",
+    "angular-sanitize": "latest",
+    "angular-resource": "latest",
+    "bootstrap": "latest"
+  }
+}
