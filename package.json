@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "grunt": "^0.4.5"
+    "grunt": "^0.4.5",
+    "grunt-cli": "latest",
+    "bower": "latest"
   },
   "devDependencies": {
     "grunt-contrib-connect": "latest"
